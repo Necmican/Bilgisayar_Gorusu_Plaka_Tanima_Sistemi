@@ -1,0 +1,20 @@
+# Sanal Ortam (KESİNLİKLE YÜKLEME)
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# PyCharm Ayar Dosyaları
+.idea/
+
+# Büyük Video Dosyaları (Github kotanı doldurmasın diye)
+*.mp4
+*.avi
+*.webm
+*.mov
+plakaDataSet/
+yolo_dataset/
+runs/
+*.pt
+*.exe
